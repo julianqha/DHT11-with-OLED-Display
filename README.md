@@ -2,33 +2,33 @@
 
 ## What you need:
 
-- 1x ESP32 Developer Module with:
+- 1x [ESP32 Developer Module](https://de.aliexpress.com/item/1005007977096529.html) with:
   - 1x USB data transfer cable  
   - 1x 3.3V pin  
   - 1x 5V/VIN pin  
   - 3x GND pins  
   - 9x GPIO pins  
 
-- 1x Breadboard  
+- 1x [Breadboard](https://de.aliexpress.com/item/1005006139490896.html) 
 
-- 1x OLED Display  
+- 1x [OLED Display](https://de.aliexpress.com/item/32913603885.html)  
   - Interface: I2C  
   - Controller: SH1106  
   - Voltage: 3.3V – 5V compatible  
 
-- 1x DHT11 Temperature & Humidity Sensor  
+- 1x [DHT11 Temperature and Humidity Sensor](https://de.aliexpress.com/item/33048949797.html)  
 
-- LEDs:
+- [LEDs](https://de.aliexpress.com/item/1005010338676055.html):
   - 2x Blue  
   - 2x Red  
   - 2x Green  
 
-- 6x Resistors (220Ω – 330Ω)  
+- 6x [Resistors](https://de.aliexpress.com/item/1005006189547427.html) (220Ω – 330Ω)  
 - 20x Jumper wires  
 
 - Computer / Laptop  
-- USB drivers for ESP32  
-- Arduino IDE or PlatformIO  
+- [CP210x USB to UART Bridge VCP Driver](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers)
+- [Arduino IDE](https://docs.arduino.cc/software/ide/) or [PlatformIO](https://platformio.org/)
 
 ---
 

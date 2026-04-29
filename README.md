@@ -2,7 +2,7 @@
 
 ## What you need:
 
-- 1x [ESP32 Developer Module](https://de.aliexpress.com/item/1005007977096529.html) with:
+- 1x [ESP32 Developer Module](https://de.aliexpress.com/item/1005007977096529.html) with minimum:
   - 1x USB data transfer cable  
   - 1x 3.3V pin  
   - 1x 5V/VIN pin  

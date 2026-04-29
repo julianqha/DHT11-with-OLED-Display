@@ -24,7 +24,7 @@
   - 2x Green  
 
 - 6x [Resistors](https://de.aliexpress.com/item/1005006189547427.html) (220Ω – 330Ω)  
-- 20x Jumper wires  
+- 20x [Jumper wires](https://de.aliexpress.com/item/4000204858217.html)
 
 - Computer / Laptop  
 - [CP210x USB to UART Bridge VCP Driver](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers)
